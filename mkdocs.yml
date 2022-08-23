@@ -1,0 +1,8 @@
+site_name: "workfloe-engine-backstage"
+site_description: "backstage demo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
